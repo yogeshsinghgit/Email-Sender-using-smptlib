@@ -1,4 +1,6 @@
 # Email-Sender-using-smptlib
+
+before sending ant email first go to google chrome and serach for less secqure apps and enable the Toggle and it only works  with gmail which do not nedd two step verification ...
 first install plyer if you want a window notification after every sucessful email send ...
 This is a first version of my Mail sender GUI project in which you can mail to more 
 then one user at a time but just add a comma " , " betwwen two receiver  email id .
