@@ -24,9 +24,3 @@ class LogicMail():
         notification.notify(title="Sender Says",message=" Mail is sent",timeout=5)
 
 
-#rs7852588@gmail.com
-#8750622650
-#yogeshsinghiimt1@gmail.com
-#rajy6495@gmail.com
-# how are you
-# just asking
